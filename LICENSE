@@ -1,0 +1,28 @@
+Copyright (c) VirusTotal Scanner Bot
+Developer: @DevArtery
+Channel:   @ArteryHub
+
+All Rights Reserved.
+
+This source code and all associated files (including but not limited to
+index.php, install.php, help.html, and any generated configuration files)
+are the exclusive property of the developer identified above.
+
+No person or entity other than @DevArtery is permitted to:
+  - Modify, adapt, or create derivative works of this code
+  - Resell, sublicense, or redistribute this code, in whole or in part
+  - Remove or alter the author/license notices contained in this project
+  - Publish this code, or any modified version of it, under a different
+    author's name or branding
+
+You MAY:
+  - Use this bot, as-is, for personal or commercial deployment
+  - Configure it through install.php with your own bot token,
+    VirusTotal API key, and channel settings
+
+Any use outside the permissions above requires prior written consent
+from @DevArtery. Unauthorized modification, resale, or redistribution
+of this code is a violation of this license.
+
+Contact: @DevArtery
+Channel: @ArteryHub
